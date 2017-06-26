@@ -8,7 +8,7 @@ Algorithm course
 3. 
 
 ## Корисні ресурси
-- 
+
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [A curated list of awesome places to learn and/or practice algorithms](https://github.com/tayllan/awesome-algorithms)
 
